@@ -1,0 +1,168 @@
+doc_id,item,category,amount,price,discount
+b4ce3ad33bfc447898d100d277a1670f,kitchen knives,Kitchenware,3,689,4
+b4ce3ad33bfc447898d100d277a1670f,blanket,Home Textiles,5,364,6
+b4ce3ad33bfc447898d100d277a1670f,pillowcases,Home Textiles,4,786,10
+b4ce3ad33bfc447898d100d277a1670f,food storage containers,Dishes,5,332,11
+b4ce3ad33bfc447898d100d277a1670f,air freshener,Household Chemicals,1,694,6
+b4ce3ad33bfc447898d100d277a1670f,salad bowls,Dishes,5,80,2
+b87306266cea4798bd26ebb48f4cccb4,food storage containers,Dishes,4,472,10
+b87306266cea4798bd26ebb48f4cccb4,cleaning brush,Cleaning Supplies,1,249,13
+02c0138f41a74718a5e9fc869f15e518,universal cleaning spray,Household Chemicals,1,334,14
+02c0138f41a74718a5e9fc869f15e518,laundry detergent,Household Chemicals,4,395,7
+898e6373c3c5436a903e17dc12e59e53,plates,Dishes,1,751,4
+898e6373c3c5436a903e17dc12e59e53,kitchen towels,Home Textiles,4,579,11
+898e6373c3c5436a903e17dc12e59e53,bowls,Dishes,3,380,14
+898e6373c3c5436a903e17dc12e59e53,bucket,Cleaning Supplies,4,445,0
+898e6373c3c5436a903e17dc12e59e53,blanket,Home Textiles,4,214,10
+a4151ad96cb34117aafa49e120cc521f,salad bowls,Dishes,5,137,8
+a4151ad96cb34117aafa49e120cc521f,sheets,Home Textiles,3,60,14
+a4151ad96cb34117aafa49e120cc521f,bucket,Cleaning Supplies,5,479,2
+a4151ad96cb34117aafa49e120cc521f,bowls,Dishes,1,543,6
+a4151ad96cb34117aafa49e120cc521f,air freshener,Household Chemicals,2,417,14
+2c27e8933c8d4699b346fbdd0f8d98af,towels,Home Textiles,4,771,15
+2c27e8933c8d4699b346fbdd0f8d98af,mop,Cleaning Supplies,2,218,6
+2c27e8933c8d4699b346fbdd0f8d98af,spatulas and ladles,Kitchenware,4,136,3
+2c27e8933c8d4699b346fbdd0f8d98af,mugs,Dishes,2,764,13
+2c27e8933c8d4699b346fbdd0f8d98af,bowls,Dishes,5,493,2
+9b78c42ba91c41cc9c9c2989b0dc8917,laundry detergent,Household Chemicals,5,561,6
+9b78c42ba91c41cc9c9c2989b0dc8917,dustpan and broom,Cleaning Supplies,5,903,3
+9b78c42ba91c41cc9c9c2989b0dc8917,towels,Home Textiles,2,721,1
+9b78c42ba91c41cc9c9c2989b0dc8917,kitchen knives,Kitchenware,2,80,1
+506137250d504e9ab3a18d580af05187,food storage containers,Dishes,1,635,6
+506137250d504e9ab3a18d580af05187,dustpan and broom,Cleaning Supplies,5,69,5
+506137250d504e9ab3a18d580af05187,bucket,Cleaning Supplies,4,768,14
+506137250d504e9ab3a18d580af05187,salad bowls,Dishes,3,922,7
+506137250d504e9ab3a18d580af05187,mugs,Dishes,4,590,3
+c15b03a2f9a54ba2890a6578580ce1c9,trash bags,Cleaning Supplies,5,380,4
+c15b03a2f9a54ba2890a6578580ce1c9,kitchen knives,Kitchenware,1,441,12
+c15b03a2f9a54ba2890a6578580ce1c9,dustpan and broom,Cleaning Supplies,5,80,0
+c15b03a2f9a54ba2890a6578580ce1c9,dishwashing liquid,Household Chemicals,3,360,5
+704e78e6c2fc4facad81a6ade5e0d03d,spoons and forks,Kitchenware,5,726,5
+704e78e6c2fc4facad81a6ade5e0d03d,blanket,Home Textiles,4,934,9
+c9ef2c78ebe74ffab9df73343c0a3b27,cleaning brush,Cleaning Supplies,3,136,14
+c9ef2c78ebe74ffab9df73343c0a3b27,pillowcases,Home Textiles,2,717,9
+c9ef2c78ebe74ffab9df73343c0a3b27,microfiber cloths,Cleaning Supplies,3,290,5
+988c05b8fc0348998d82e941c6c8ad4b,mugs,Dishes,3,869,9
+e91a8c12ca3d4eaa8ceb263ddf87ffd9,bucket,Cleaning Supplies,4,127,5
+e91a8c12ca3d4eaa8ceb263ddf87ffd9,tablecloth,Home Textiles,4,341,5
+e91a8c12ca3d4eaa8ceb263ddf87ffd9,graters,Kitchenware,5,623,14
+3299cd1892c74ec8ad066c6e2e63218e,universal cleaning spray,Household Chemicals,3,203,5
+ccae461c36784fe8988ffda9bdd86967,kitchen towels,Home Textiles,4,363,11
+ccae461c36784fe8988ffda9bdd86967,bowls,Dishes,4,857,7
+ccae461c36784fe8988ffda9bdd86967,mugs,Dishes,2,136,10
+ccae461c36784fe8988ffda9bdd86967,sponges and rags,Household Chemicals,5,537,10
+abd465ae4d1c48c5a2d461da81f8930a,cups,Dishes,1,515,15
+abd465ae4d1c48c5a2d461da81f8930a,graters,Kitchenware,4,585,12
+c2a31d010f924695b440bfccbdefb39e,pillowcases,Home Textiles,3,220,2
+c2a31d010f924695b440bfccbdefb39e,trash bags,Cleaning Supplies,2,967,0
+c2a31d010f924695b440bfccbdefb39e,universal cleaning spray,Household Chemicals,5,193,5
+30ec949df63c41f19e15015cfda18f6e,cups,Dishes,5,907,3
+30ec949df63c41f19e15015cfda18f6e,mugs,Dishes,1,347,3
+30ec949df63c41f19e15015cfda18f6e,universal cleaning spray,Household Chemicals,3,222,11
+30ec949df63c41f19e15015cfda18f6e,trash bags,Cleaning Supplies,2,918,13
+3aca253cfefc490f9a91ebdbfad3dcad,microfiber cloths,Cleaning Supplies,5,947,13
+3aca253cfefc490f9a91ebdbfad3dcad,salad bowls,Dishes,2,670,11
+3aca253cfefc490f9a91ebdbfad3dcad,cutting boards,Kitchenware,5,500,15
+3aca253cfefc490f9a91ebdbfad3dcad,laundry detergent,Household Chemicals,1,335,8
+3aca253cfefc490f9a91ebdbfad3dcad,bowls,Dishes,2,717,7
+c0d3146d802e433788ac93307748c011,universal cleaning spray,Household Chemicals,5,976,15
+c0d3146d802e433788ac93307748c011,bowls,Dishes,3,477,6
+fa8953389ca64a388958ca9edde0b9f2,food storage containers,Dishes,4,609,8
+fa8953389ca64a388958ca9edde0b9f2,mop,Cleaning Supplies,5,925,1
+fa8953389ca64a388958ca9edde0b9f2,salad bowls,Dishes,1,666,1
+18970ddf58054a72bd46aef91ee9283b,sheets,Home Textiles,2,994,1
+18970ddf58054a72bd46aef91ee9283b,bowls,Dishes,3,827,14
+18970ddf58054a72bd46aef91ee9283b,dustpan and broom,Cleaning Supplies,3,780,11
+18970ddf58054a72bd46aef91ee9283b,microfiber cloths,Cleaning Supplies,3,985,8
+18970ddf58054a72bd46aef91ee9283b,pillowcases,Home Textiles,5,977,14
+18970ddf58054a72bd46aef91ee9283b,mop,Cleaning Supplies,4,88,1
+659d748ba8634f889eee3b645cb6ba2c,spatulas and ladles,Kitchenware,3,842,0
+659d748ba8634f889eee3b645cb6ba2c,cleaning brush,Cleaning Supplies,1,211,11
+659d748ba8634f889eee3b645cb6ba2c,sheets,Home Textiles,3,877,13
+518d6f42306543ffb374429caf163f81,pillowcases,Home Textiles,1,886,10
+518d6f42306543ffb374429caf163f81,cutting boards,Kitchenware,1,450,5
+518d6f42306543ffb374429caf163f81,trash bags,Cleaning Supplies,4,992,8
+518d6f42306543ffb374429caf163f81,sieve,Kitchenware,2,366,9
+250edfe0c93d455f9dcfcc73e39aba52,laundry detergent,Household Chemicals,2,471,0
+250edfe0c93d455f9dcfcc73e39aba52,kitchen knives,Kitchenware,5,788,14
+250edfe0c93d455f9dcfcc73e39aba52,graters,Kitchenware,1,707,15
+902ddc3bfcfa4f989a791c2a0fea0fa1,sieve,Kitchenware,1,682,1
+93730af020a542cb91d1f71ab5502976,sponges and rags,Household Chemicals,3,734,0
+93730af020a542cb91d1f71ab5502976,blanket,Home Textiles,2,191,9
+93730af020a542cb91d1f71ab5502976,laundry detergent,Household Chemicals,4,417,6
+93730af020a542cb91d1f71ab5502976,kitchen towels,Home Textiles,1,262,10
+67d7a03cca9048c7accefc5d0a7a04b8,trash bags,Cleaning Supplies,4,958,6
+67d7a03cca9048c7accefc5d0a7a04b8,universal cleaning spray,Household Chemicals,5,571,7
+4471151586434cdbaf62df089bf73f3a,cups,Dishes,2,295,0
+4471151586434cdbaf62df089bf73f3a,cutting boards,Kitchenware,1,242,5
+4471151586434cdbaf62df089bf73f3a,food storage containers,Dishes,4,956,1
+4471151586434cdbaf62df089bf73f3a,plates,Dishes,1,795,6
+4471151586434cdbaf62df089bf73f3a,blanket,Home Textiles,1,517,0
+cf70d9d6ebad4830891aa3512b09e4d8,bucket,Cleaning Supplies,1,89,3
+cf70d9d6ebad4830891aa3512b09e4d8,sponges and rags,Household Chemicals,4,703,9
+cf70d9d6ebad4830891aa3512b09e4d8,mop,Cleaning Supplies,1,440,9
+94f382dc296a48639c12cad648bfa887,microfiber cloths,Cleaning Supplies,2,525,5
+94f382dc296a48639c12cad648bfa887,graters,Kitchenware,4,102,10
+94f382dc296a48639c12cad648bfa887,spatulas and ladles,Kitchenware,4,632,5
+d46b043a56b0482d845ebe90e9b06539,plates,Dishes,1,366,8
+d46b043a56b0482d845ebe90e9b06539,sponges and rags,Household Chemicals,1,997,1
+1d07173d0d36495492e99d9426d9b0cc,air freshener,Household Chemicals,1,619,14
+1d07173d0d36495492e99d9426d9b0cc,tablecloth,Home Textiles,2,374,6
+d67be5b7bc474b3189c9decf8324142f,blanket,Home Textiles,3,767,10
+d67be5b7bc474b3189c9decf8324142f,cutting boards,Kitchenware,2,436,2
+d67be5b7bc474b3189c9decf8324142f,laundry detergent,Household Chemicals,5,596,3
+d67be5b7bc474b3189c9decf8324142f,air freshener,Household Chemicals,1,483,8
+d67be5b7bc474b3189c9decf8324142f,salad bowls,Dishes,5,459,8
+7da1264bdefa44aa8260bfe26609feee,bucket,Cleaning Supplies,3,400,15
+7da1264bdefa44aa8260bfe26609feee,food storage containers,Dishes,2,491,14
+7da1264bdefa44aa8260bfe26609feee,sheets,Home Textiles,4,103,1
+7da1264bdefa44aa8260bfe26609feee,dishwashing liquid,Household Chemicals,2,123,4
+7da1264bdefa44aa8260bfe26609feee,mugs,Dishes,5,924,3
+7da1264bdefa44aa8260bfe26609feee,air freshener,Household Chemicals,3,399,1
+c93c39dd6e804fa0a408f8f2e06a4ec7,spatulas and ladles,Kitchenware,2,994,6
+c93c39dd6e804fa0a408f8f2e06a4ec7,cleaning brush,Cleaning Supplies,3,216,8
+c93c39dd6e804fa0a408f8f2e06a4ec7,microfiber cloths,Cleaning Supplies,3,626,5
+c93c39dd6e804fa0a408f8f2e06a4ec7,cups,Dishes,2,583,11
+c93c39dd6e804fa0a408f8f2e06a4ec7,laundry detergent,Household Chemicals,1,890,5
+d5560f89915b4ea58707bd2b9316a6d1,kitchen knives,Kitchenware,1,403,15
+d5560f89915b4ea58707bd2b9316a6d1,tablecloth,Home Textiles,5,542,3
+d5560f89915b4ea58707bd2b9316a6d1,dishwashing liquid,Household Chemicals,4,270,7
+d5560f89915b4ea58707bd2b9316a6d1,bathroom cleaner,Household Chemicals,4,96,14
+d5560f89915b4ea58707bd2b9316a6d1,trash bags,Cleaning Supplies,4,534,6
+d5560f89915b4ea58707bd2b9316a6d1,food storage containers,Dishes,3,952,11
+8f5cf1c781884a2b9fb1e815e028d56a,kitchen towels,Home Textiles,3,590,8
+8f5cf1c781884a2b9fb1e815e028d56a,blanket,Home Textiles,3,87,4
+8f5cf1c781884a2b9fb1e815e028d56a,mugs,Dishes,2,288,14
+8f5cf1c781884a2b9fb1e815e028d56a,sheets,Home Textiles,3,600,3
+8f5cf1c781884a2b9fb1e815e028d56a,microfiber cloths,Cleaning Supplies,5,122,8
+0f88a6be983e415cb40772e9eb4d782f,food storage containers,Dishes,5,185,6
+0f88a6be983e415cb40772e9eb4d782f,graters,Kitchenware,4,511,3
+0f88a6be983e415cb40772e9eb4d782f,spatulas and ladles,Kitchenware,2,596,8
+e2bcf3bab27c47559f1120e7fe753e8a,plates,Dishes,3,421,1
+e2bcf3bab27c47559f1120e7fe753e8a,bucket,Cleaning Supplies,2,59,15
+e2bcf3bab27c47559f1120e7fe753e8a,spoons and forks,Kitchenware,3,907,11
+e2bcf3bab27c47559f1120e7fe753e8a,mugs,Dishes,1,971,5
+1020c9bf8ee64a1c840cae840ee1bb52,graters,Kitchenware,2,496,14
+1020c9bf8ee64a1c840cae840ee1bb52,sponges and rags,Household Chemicals,4,105,3
+9537114783a34a46a755617e5de19c8a,microfiber cloths,Cleaning Supplies,5,502,14
+9537114783a34a46a755617e5de19c8a,sieve,Kitchenware,4,102,0
+9537114783a34a46a755617e5de19c8a,food storage containers,Dishes,5,216,6
+9537114783a34a46a755617e5de19c8a,salad bowls,Dishes,4,433,10
+d0ddaad71c5648dcbd7eabcfdc4c9305,spoons and forks,Kitchenware,5,884,15
+464763ca36de4082a955c93c226c2bb7,bathroom cleaner,Household Chemicals,4,308,14
+1c6078b5184b41d28ed022ef27591242,microfiber cloths,Cleaning Supplies,2,80,9
+6554b246b5824b8a811fbd783a47f0cf,food storage containers,Dishes,3,620,2
+6554b246b5824b8a811fbd783a47f0cf,cutting boards,Kitchenware,2,187,7
+7c5eea7747a14bf28d18a53b1f371c62,universal cleaning spray,Household Chemicals,4,443,9
+7c5eea7747a14bf28d18a53b1f371c62,cutting boards,Kitchenware,5,156,6
+7c5eea7747a14bf28d18a53b1f371c62,salad bowls,Dishes,4,776,7
+7c5eea7747a14bf28d18a53b1f371c62,sheets,Home Textiles,4,327,9
+7c5eea7747a14bf28d18a53b1f371c62,mugs,Dishes,3,246,0
+511adc554c374af8ad64751a2763e1cb,trash bags,Cleaning Supplies,4,455,3
+511adc554c374af8ad64751a2763e1cb,bowls,Dishes,2,305,15
+511adc554c374af8ad64751a2763e1cb,blanket,Home Textiles,2,607,14
+511adc554c374af8ad64751a2763e1cb,graters,Kitchenware,4,244,10
+511adc554c374af8ad64751a2763e1cb,spoons and forks,Kitchenware,3,80,5
+d8f4c33c115a42328338806754d32bde,plates,Dishes,2,286,5
+d8f4c33c115a42328338806754d32bde,mop,Cleaning Supplies,4,69,11
+d8f4c33c115a42328338806754d32bde,sieve,Kitchenware,4,165,9

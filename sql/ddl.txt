@@ -1,0 +1,15 @@
+-- public.purchases определение
+
+-- Drop table
+
+-- DROP TABLE public.purchases;
+
+CREATE TABLE public.purchases (
+	doc_id varchar NOT NULL,
+	item varchar NULL,
+	category varchar NULL,
+	amount int4 NULL,
+	price int4 NULL,
+	discount int4 NULL,
+	CONSTRAINT purchases_unique UNIQUE (doc_id, item, category, amount, price, discount)
+);

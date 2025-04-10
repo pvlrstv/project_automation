@@ -1,0 +1,1 @@
+python "C:\Users\pavel\data\to_database.py"
